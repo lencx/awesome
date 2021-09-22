@@ -4,10 +4,6 @@
 
 > 😎 Awesome lists about all kinds of interesting topics
 
-## Tech
-
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊
-
 ## Weekly
 
 An awesome list of quality weekly subscription newsletters from the software world.
@@ -31,6 +27,10 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/) - The best Vue articles in your inbox, weekly
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH 前端周刊
 
+## Tech
+
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊
+
 ### OS
 
 - [Scripting OS X](https://scriptingosx.com/) - #! is not a curse word
@@ -50,3 +50,10 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [Natls](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
   - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+## Terminal
+
+- github
+  - [gh](https://github.com/cli/cli) - GitHub’s official command line tool
+- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀⭐ A Zsh prompt for Astronauts
+  - [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
