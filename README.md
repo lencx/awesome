@@ -1,6 +1,12 @@
-# Awesome
+<h1 align="center">
+<img width="240" src="./assets/awesome.svg" />
+</h1>
 
 > 😎 Awesome lists about all kinds of interesting topics
+
+## Tech
+
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊
 
 ## Weekly
 
@@ -23,6 +29,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [Vue](https://vuejs.org/) - The Progressive JavaScript Framework
   - [VueWeekly .dev](https://www.vueweekly.dev/) - 👋 A free, weekly email digest of Vue.js news and articles
   - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/) - The best Vue articles in your inbox, weekly
+- [sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH 前端周刊
 
 ## OS
 
