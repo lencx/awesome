@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width="240" src="./assets/awesome.svg" />
+  <img width="240" src="./assets/awesome.svg" />
 </h1>
 
 > 😎 Awesome lists about all kinds of interesting topics
@@ -31,6 +31,22 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/) - The best Vue articles in your inbox, weekly
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH 前端周刊
 
-## OS
+### OS
 
 - [Scripting OS X](https://scriptingosx.com/) - #! is not a curse word
+
+## System tools
+
+- cat
+  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- git
+  - [gix](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+  - [tig](https://github.com/jonas/tig) - Text-mode interface for git
+- find
+  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
+- ls
+  - [exa](https://github.com/ogham/exa) - A modern replacement for `ls`
+  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+  - [Natls](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
+- [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+  - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
