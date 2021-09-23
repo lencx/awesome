@@ -4,6 +4,18 @@
 
 > 😎 Awesome lists about all kinds of interesting topics
 
+## TOC
+
+- [TOC](#toc)
+- [Weekly](#weekly)
+  - [Languages](#languages)
+  - [Frontend](#frontend)
+  - [Tech](#tech)
+  - [OS](#os)
+- [System tools](#system-tools)
+- [Terminal](#terminal)
+- [Compiler](#compiler)
+
 ## Weekly
 
 An awesome list of quality weekly subscription newsletters from the software world.
@@ -27,7 +39,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/) - The best Vue articles in your inbox, weekly
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH 前端周刊
 
-## Tech
+### Tech
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊
 
@@ -57,3 +69,11 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [gh](https://github.com/cli/cli) - GitHub’s official command line tool
 - [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀⭐ A Zsh prompt for Astronauts
   - [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+## Compiler
+
+- [babel](https://babel.dev/) - 🐠 Babel is a compiler for writing next generation JavaScript.
+  - [swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [rollup.js](https://rollupjs.org/) - Next-generation ES module bundler
+  - [esbuild](https://esbuild.github.io/) - An extremely fast JavaScript bundler and minifier
+  - [rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible
