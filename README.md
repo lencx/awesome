@@ -10,7 +10,7 @@
 |   △    | C / C++  |   🐹   |      Go      |   ☕   |   Java   |
 |   🅺    |  Kotlin  |   ⬢    | Node.js / FE |   🐍   |  Python  |
 |   💎   |   Ruby   |   🦀   |     Rust     |   💲   |  Shell   |
-|   🐦   |  Swift   |   🕸    | WebAssembly  |        |          |
+|   🐧   |  Swift   |   🕸    | WebAssembly  |        |          |
 
 <h2>Contents</h2>
 
@@ -21,8 +21,8 @@
 - [System & Command](#system--command)
 - [Terminal](#terminal)
 - [Compiler](#compiler)
-- [Application](#application)
 - [CodeSnap](#codesnap)
+- [Application](#application)
 
 ## Weekly
 
@@ -87,16 +87,24 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [🐹 esbuild](https://esbuild.github.io/) - An extremely fast JavaScript bundler and minifier
   - [🦀 rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible
 
-## Application
-
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
-- [TeamViewer](https://www.teamviewer.com/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
-  - [🦀 RustDesk](https://github.com/rustdesk/rustdesk) - Discover RustDesk, the best open source remote desktop software, control your desktop remotely. It is an alternative of TeamViewer and AnyDesk. You have full control of your data, no concerns about security.
-
 ## CodeSnap
 
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code
 - [Carbon](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
 - [codeimg](https://codeimg.io/) - Create and share beautiful images of your source code.
 - [Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
+
+## Application
+
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+- [TeamViewer](https://www.teamviewer.com/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
+  - [🦀 RustDesk](https://github.com/rustdesk/rustdesk) - Discover RustDesk, the best open source remote desktop software, control your desktop remotely. It is an alternative of TeamViewer and AnyDesk. You have full control of your data, no concerns about security.
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet) - Know your short cuts
+- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality
+- [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm
+- [Maccy](https://maccy.app/) - Clipboard manager for macOS which does one job - keep your copy history at hand. Period
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+- [Pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
