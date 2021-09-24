@@ -5,22 +5,19 @@
 
 > 😎 Awesome lists about all kinds of interesting topics
 
-| Symbol |  Language   | Symbol |  Language   | Symbol | Language |
-| :----: | :---------: | :----: | :---------: | :----: | :------: |
-|   △    |   C, C++    |   🐹   |     Go      |   ☕   |   Java   |
-|   🅺    |   Kotlin    |   ⬢    |   Node.js   |   🐍   |  Python  |
-|   💎   |    Ruby     |   🦀   |    Rust     |   💲   |  Shell   |
-|   🐦   |    Swift    |   🕸    | WebAssembly |        |          |
-|        |             |        |             |        |          |
-|   📱   | Application |        |             |        |          |
+| Symbol | Language | Symbol |   Language   | Symbol | Language |
+| :----: | :------: | :----: | :----------: | :----: | :------: |
+|   △    | C / C++  |   🐹   |      Go      |   ☕   |   Java   |
+|   🅺    |  Kotlin  |   ⬢    | Node.js / FE |   🐍   |  Python  |
+|   💎   |   Ruby   |   🦀   |     Rust     |   💲   |  Shell   |
+|   🐦   |  Swift   |   🕸    | WebAssembly  |        |          |
 
 <h2>Contents</h2>
 
 - [Weekly](#weekly)
   - [Languages](#languages)
   - [Frontend](#frontend)
-  - [Tech](#tech)
-  - [OS](#os)
+  - [Other](#other)
 - [System & Command](#system--command)
 - [Terminal](#terminal)
 - [Compiler](#compiler)
@@ -42,20 +39,17 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 - [⬢ React](https://reactjs.org/) - A JavaScript library for building user interfaces
   - [React Status](https://react.statuscode.com/) - A weekly roundup of the latest React and React Native links and tutorials
-  - [React Newsletter](https://reactnewsletter.com/) - Stay up to date on the latest React news, tutorials, resources, and more. Delivered every Tuesday, for free.
-  - [React Digest](https://reactdigest.net/) - React Digest is a weekly newsletter with the five most interesting stories in front-end React development ⚛️ 👩‍💻
+  - [React Newsletter](https://reactnewsletter.com/) - Stay up to date on the latest React news, tutorials, resources, and more. Delivered every Tuesday, for free
+  - [React Digest](https://reactdigest.net/) - React Digest is a weekly newsletter with the five most interesting stories in front-end React development
 - [⬢ Vue](https://vuejs.org/) - The Progressive JavaScript Framework
-  - [VueWeekly .dev](https://www.vueweekly.dev/) - 👋 A free, weekly email digest of Vue.js news and articles
+  - [VueWeekly .dev](https://www.vueweekly.dev/) - A free, weekly email digest of Vue.js news and articles
   - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/) - The best Vue articles in your inbox, weekly
+- [⬢ ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术
 - [⬢ sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH 前端周刊
 
-### Tech
+### Other
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊
-
-### OS
-
-- [Scripting OS X](https://scriptingosx.com/) - #! is not a curse word
 
 ## System & Command
 
@@ -71,9 +65,9 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - ls
   - [🦀 exa](https://github.com/ogham/exa) - A modern replacement for `ls`
   - [🦀 lsd](https://github.com/Peltoche/lsd) - The next gen ls command
-  - [🦀 natls](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
+  - [🦀 natls](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color
 - [💲 nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-  - [🦀 fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+  - [🦀 fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in Rust
 - make
   - [🦀 just](https://github.com/casey/just) - `just` is a handy way to save and run project-specific commands.
 
@@ -81,12 +75,12 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 - github
   - [🐹 gh](https://github.com/cli/cli) - GitHub’s official command line tool
-- [💲 spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀⭐ A Zsh prompt for Astronauts
-  - [🦀 starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [💲 spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - A Zsh prompt for Astronauts
+  - [🦀 starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## Compiler
 
-- [⬢ babel](https://babel.dev/) - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [⬢ babel](https://babel.dev/) - Babel is a compiler for writing next generation JavaScript.
   - [🦀 swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [⬢ rollup.js](https://rollupjs.org/) - Next-generation ES module bundler
   - [🐹 esbuild](https://esbuild.github.io/) - An extremely fast JavaScript bundler and minifier
@@ -94,7 +88,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 ## Application
 
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 - [TeamViewer](https://www.teamviewer.com/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
   - [🦀 RustDesk](https://github.com/rustdesk/rustdesk) - Discover RustDesk, the best open source remote desktop software, control your desktop remotely. It is an alternative of TeamViewer and AnyDesk. You have full control of your data, no concerns about security.
