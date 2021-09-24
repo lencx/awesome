@@ -22,6 +22,7 @@
 - [Terminal](#terminal)
 - [Compiler](#compiler)
 - [Application](#application)
+- [CodeSnap](#codesnap)
 
 ## Weekly
 
@@ -92,3 +93,10 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 - [TeamViewer](https://www.teamviewer.com/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
   - [🦀 RustDesk](https://github.com/rustdesk/rustdesk) - Discover RustDesk, the best open source remote desktop software, control your desktop remotely. It is an alternative of TeamViewer and AnyDesk. You have full control of your data, no concerns about security.
+
+## CodeSnap
+
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code
+- [Carbon](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
+- [codeimg](https://codeimg.io/) - Create and share beautiful images of your source code.
+- [Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
