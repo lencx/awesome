@@ -7,14 +7,14 @@
 
 | Symbol | Language | Symbol |   Language   | Symbol | Language |
 | :----: | :------: | :----: | :----------: | :----: | :------: |
-|   △    | C / C++  |   🐹   |      Go      |   ☕   |   Java   |
-|   🅺    |  Kotlin  |   ⬢    | Node.js / FE |   🐍   |  Python  |
-|   💎   |   Ruby   |   🦀   |     Rust     |   💲   |  Shell   |
-|   🐧   |  Swift   |   🕸    | WebAssembly  |        |          |
+|   △    | C / C++  |   🐹   |      Go      |   ☕    |   Java   |
+|   🅺   |  Kotlin  |   ⬢   | Node.js / FE |   🐍    |  Python  |
+|   💎   |   Ruby   |   🦀   |     Rust     |   💲    |  Shell   |
+|   🐧   |  Swift   |   🕸   | WebAssembly  |         |          |
 
-| Symbol | Description | Symbol | Description  | Symbol | Description |
-| :----: | :---------: | :----: | :----------: | :----: | :---------: |
-|   🌐   |   Browser   |   💠   | IDE / VSCode |        |             |
+| Symbol | Description | Symbol | Description  |
+| :----: | :---------: | :----: | :----------: |
+|   🌐   |   Browser   |   💠   | IDE / VSCode |
 
 <h2>Contents</h2>
 
@@ -104,7 +104,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
-- [TeamViewer](https://www.teamviewer.com/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
+- [TeamViewer](https://www.teamviewer.com/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online
   - [🦀 RustDesk](https://github.com/rustdesk/rustdesk) - Discover RustDesk, the best open source remote desktop software, control your desktop remotely. It is an alternative of TeamViewer and AnyDesk. You have full control of your data, no concerns about security.
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet) - Know your short cuts
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality
@@ -119,13 +119,18 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 ### GitHub
 
-- [🌐 Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub on Chrome & Firefox & Edge
-  - [🌐 Octotree](https://www.octotree.io/) - GitHub on steroids
-- [🌐 CodeCopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
-- [🌐 Enhanced GitHub](https://github.com/softvar/enhanced-github) - Browser extension to display size of each file, download link and copy file contents directly to the clipboard
-- [🌐 File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
-- [🌐 OctoLinker](https://github.com/OctoLinker/OctoLinker) - Links together, what belongs together
-- [🌐 Refined GitHub](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [🌐 GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [🌐 Sourcegraph - Universal Code Search](https://sourcegraph.com) - Find and fix things across all of your code with Sourcegraph universal code search.
-- [💠 Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit a GitHub repository
+`🌐 Browser`
+
+- [Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub on Chrome & Firefox & Edge
+  - [Octotree](https://www.octotree.io/) - GitHub on steroids
+- [CodeCopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
+- [Enhanced GitHub](https://github.com/softvar/enhanced-github) - Browser extension to display size of each file, download link and copy file contents directly to the clipboard
+- [File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Links together, what belongs together
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+- [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [Sourcegraph - Universal Code Search](https://sourcegraph.com) - Find and fix things across all of your code with Sourcegraph universal code search.
+
+`💠 VSCode`
+
+- [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit a GitHub repository
