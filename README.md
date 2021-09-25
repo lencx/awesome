@@ -12,6 +12,10 @@
 |   💎   |   Ruby   |   🦀   |     Rust     |   💲   |  Shell   |
 |   🐧   |  Swift   |   🕸    | WebAssembly  |        |          |
 
+| Symbol | Description | Symbol | Description  | Symbol | Description |
+| :----: | :---------: | :----: | :----------: | :----: | :---------: |
+|   🌐   |   Browser   |   💠   | IDE / VSCode |        |             |
+
 <h2>Contents</h2>
 
 - [Weekly](#weekly)
@@ -23,6 +27,8 @@
 - [Compiler](#compiler)
 - [CodeSnap](#codesnap)
 - [Application](#application)
+- [Extensions](#extensions)
+  - [GitHub](#github)
 
 ## Weekly
 
@@ -108,3 +114,18 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [Pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
+
+## Extensions
+
+### GitHub
+
+- [🌐 Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub on Chrome & Firefox & Edge
+  - [🌐 Octotree](https://www.octotree.io/) - GitHub on steroids
+- [🌐 CodeCopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
+- [🌐 Enhanced GitHub](https://github.com/softvar/enhanced-github) - Browser extension to display size of each file, download link and copy file contents directly to the clipboard
+- [🌐 File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
+- [🌐 OctoLinker](https://github.com/OctoLinker/OctoLinker) - Links together, what belongs together
+- [🌐 Refined GitHub](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [🌐 GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [🌐 Sourcegraph - Universal Code Search](https://sourcegraph.com) - Find and fix things across all of your code with Sourcegraph universal code search.
+- [💠 Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit a GitHub repository
