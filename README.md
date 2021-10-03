@@ -7,14 +7,15 @@
 
 | Symbol | Language | Symbol |   Language   | Symbol | Language |
 | :----: | :------: | :----: | :----------: | :----: | :------: |
-|   △    | C / C++  |   🐹   |      Go      |   ☕    |   Java   |
-|   🅺   |  Kotlin  |   ⬢   | Node.js / FE |   🐍    |  Python  |
-|   💎   |   Ruby   |   🦀   |     Rust     |   💲    |  Shell   |
-|   🐧   |  Swift   |   🕸   | WebAssembly  |         |          |
+|   △    | C / C++  |   🐹   |      Go      |   ☕   |   Java   |
+|   🅺    |  Kotlin  |   ⬢    | Node.js / FE |   🐍   |  Python  |
+|   💎   |   Ruby   |   🦀   |     Rust     |   💲   |  Shell   |
+|   🐧   |  Swift   |   🕸    | WebAssembly  |        |          |
 
-| Symbol | Description | Symbol | Description  | Symbol | Description  |
-| :----: | :---------: | :----: | :----------: | :----: | :----------: |
-|   🌐   |   Browser   |   💠   | IDE / VSCode |   💖   |    Other     |
+| Symbol |     Description      | Symbol | Description  | Symbol | Description |
+| :----: | :------------------: | :----: | :----------: | :----: | :---------: |
+|   🌐   |       Browser        |   💠   | IDE / VSCode |   💖   |    Other    |
+|   🧩   | Extensions / Plugins |
 
 <h2>Contents</h2>
 
@@ -27,8 +28,7 @@
 - [Compiler](#compiler)
 - [CodeSnap](#codesnap)
 - [Application](#application)
-- [Extensions](#extensions)
-  - [GitHub](#github)
+- [GitHub](#github)
 
 ## Weekly
 
@@ -95,10 +95,10 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 ## CodeSnap
 
-- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code
-- [Carbon](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
-- [codeimg](https://codeimg.io/) - Create and share beautiful images of your source code.
-- [Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
+- [🧩 CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code
+- [🌐 Carbon](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
+- [🌐 codeimg](https://codeimg.io/) - Create and share beautiful images of your source code.
+- [🌐 Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
 
 ## Application
 
@@ -109,31 +109,29 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet) - Know your short cuts
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality
 - [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm
-- [Maccy](https://maccy.app/) - Clipboard manager for macOS which does one job - keep your copy history at hand. Period
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [Pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-- [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
+- [🐧 Maccy](https://maccy.app/) - Clipboard manager for macOS which does one job - keep your copy history at hand. Period
+- [🐧 Hidden Bar](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [🐧 Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+- [🐧 Pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+- [🐧 mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
 
-## Extensions
-
-### GitHub
+## GitHub
 
 `🌐 Browser`
 
-- [Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub on Chrome & Firefox & Edge
+- [🧩 Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub on Chrome & Firefox & Edge
   - [Octotree](https://www.octotree.io/) - GitHub on steroids
-- [CodeCopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
-- [Enhanced GitHub](https://github.com/softvar/enhanced-github) - Browser extension to display size of each file, download link and copy file contents directly to the clipboard
-- [File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
-- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Links together, what belongs together
-- [Refined GitHub](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
-- [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [Sourcegraph - Universal Code Search](https://sourcegraph.com) - Find and fix things across all of your code with Sourcegraph universal code search.
+- [🧩 CodeCopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
+- [🧩 Enhanced GitHub](https://github.com/softvar/enhanced-github) - Browser extension to display size of each file, download link and copy file contents directly to the clipboard
+- [🧩 File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
+- [🧩 OctoLinker](https://github.com/OctoLinker/OctoLinker) - Links together, what belongs together
+- [🧩 Refined GitHub](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+- [🧩 GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [🧩 Sourcegraph - Universal Code Search](https://sourcegraph.com) - Find and fix things across all of your code with Sourcegraph universal code search.
 
 `💠 VSCode`
 
-- [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit a GitHub repository
+- [🧩 Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit a GitHub repository
 
 `💖 Other`
 
