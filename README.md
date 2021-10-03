@@ -12,9 +12,9 @@
 |   💎   |   Ruby   |   🦀   |     Rust     |   💲    |  Shell   |
 |   🐧   |  Swift   |   🕸   | WebAssembly  |         |          |
 
-| Symbol | Description | Symbol | Description  |
-| :----: | :---------: | :----: | :----------: |
-|   🌐   |   Browser   |   💠   | IDE / VSCode |
+| Symbol | Description | Symbol | Description  | Symbol | Description  |
+| :----: | :---------: | :----: | :----------: | :----: | :----------: |
+|   🌐   |   Browser   |   💠   | IDE / VSCode |   💖   |    Other     |
 
 <h2>Contents</h2>
 
@@ -134,3 +134,8 @@ An awesome list of quality weekly subscription newsletters from the software wor
 `💠 VSCode`
 
 - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub) - Remotely browse and edit a GitHub repository
+
+`💖 Other`
+
+- [github/dev](https://github.com/github/dev) - Press the . key on any repository or pull request, or swap .com with .dev in the URL, to go directly to a VS Code environment in your browser.
+- [GitHub520](https://github.com/521xueweihan/GitHub520) - Solve the problem of slow access to GitHub.com and unloading of pictures.
