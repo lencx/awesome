@@ -29,6 +29,7 @@
 - [CodeSnap](#codesnap)
 - [Application](#application)
 - [GitHub](#github)
+- [Fonts](#fonts)
 
 ## Weekly
 
@@ -137,3 +138,8 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 - [github/dev](https://github.com/github/dev) - Press the . key on any repository or pull request, or swap .com with .dev in the URL, to go directly to a VS Code environment in your browser.
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - Solve the problem of slow access to GitHub.com and unloading of pictures.
+
+## Fonts
+
+- [Fira Code](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
