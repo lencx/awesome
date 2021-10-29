@@ -20,6 +20,7 @@
 <h2>Contents</h2>
 
 - [Series](#series)
+- [.dev](#dev)
 - [Weekly](#weekly)
   - [Languages](#languages)
   - [Frontend](#frontend)
@@ -38,6 +39,11 @@
 - [CSS](./CSS.md)
 - [React](./React.md)
 - [WebAssembly](./WebAssembly.md)
+
+## .dev
+
+- [vscode.dev](https://vscode.dev) - Build with Visual Studio Code, anywhere, anytime, entirely in your browser.
+- [github.dev](https://github.dev) - Press the . key on any repository or pull request, or swap .com with .dev in the URL, to go directly to a VS Code environment in your browser.
 
 ## Weekly
 
@@ -125,6 +131,8 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [🐧 Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [🐧 Pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [🐧 mas](https://github.com/mas-cli/mas) - Mac App Store command line interface
+- [△ LICEcap](https://www.cockos.com/licecap/) - LICEcap can capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below).
+- [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny menu bar calendar.
 
 ## GitHub
 
