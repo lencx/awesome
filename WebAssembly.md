@@ -6,17 +6,17 @@
 - [[Mozilla Hacks] WebAssembly Articles](https://hacks.mozilla.org/category/webassembly/) - Articles posted in WebAssembly
 - [webassembly.org](https://webassembly.org) - WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 - [Bytecode Alliance](https://bytecodealliance.org/articles/) - The Bytecode Alliance is a nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).
-- [Rust 🦀   and WebAssembly 🕸   ](https://rustwasm.github.io/docs/book) - This small book describes how to use Rust and WebAssembly together.
-- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) - 😎  A curated list of languages that compile directly to or have their VMs in WebAssembly
+- [Rust 🦀 and WebAssembly 🕸](https://rustwasm.github.io/docs/book) - This small book describes how to use Rust and WebAssembly together.
+- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) - A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [WebAssembly Weekly](https://wasmweekly.news) - A weekly newsletter for keeping on top of what's new in the world of WebAssembly, with tutorials, examples, articles, and more.
-- [Awesome Wasm](https://github.com/mbasso/awesome-wasm) - 😎  Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
+- [Awesome Wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Wasm By Example](https://wasmbyexample.dev/home.en-us.html) - A hands-on introduction into WebAssembly ( Wasm ). Containing simple wasm examples and wasm tutorials on how to implement concepts and various tasks using WebAssembly.
 
 ## WASI & VM & VDOM
 
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
-- [Wasm3](https://github.com/wasm3/wasm3) - 🚀  The fastest WebAssembly interpreter, and the most universal runtime
-- [Wasmer](https://github.com/wasmerio/wasmer) - 🚀  The leading WebAssembly Runtime supporting WASI and Emscripten.
+- [Wasm3](https://github.com/wasm3/wasm3) - The fastest WebAssembly interpreter, and the most universal runtime
+- [Wasmer](https://github.com/wasmerio/wasmer) - The leading WebAssembly Runtime supporting WASI and Emscripten.
 - [Lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.
 - [asm-dom](https://github.com/mbasso/asm-dom) - A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
@@ -27,32 +27,32 @@
 - [wapm](https://wapm.io) - `WAPM` is the WebAssembly Package Manager.
 - [trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [wasm-tools](https://github.com/bytecodealliance/wasm-tools) - Rust tooling for low-level manipulation of WebAssembly modules.
-- [wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦  ✨  your favorite rust -> wasm workflow tool!
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - your favorite rust -> wasm workflow tool!
 
 ## Optimizing
 
 - [Shrinking `.wasm` Code Size](https://rustwasm.github.io/book/reference/code-size.html)
   - [Binaryen](https://github.com/WebAssembly/binaryen) - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++. It aims to make compiling to WebAssembly easy, fast, and effective.
-  - [Twiggy](https://github.com/rustwasm/twiggy) - Twiggy 🌱  is a code size profiler
+  - [Twiggy](https://github.com/rustwasm/twiggy) - Twiggy is a code size profiler
 - [Optimizing Code (`cpp`)](https://emscripten.org/docs/optimizing/Optimizing-Code.html)
 - [Superoptimization of WebAssembly Bytecode](https://arxiv.org/pdf/2002.10213.pdf)
 
 ## Open Source
 
-- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - 🦀  wasm-pack plugin for Vite
-- [rsw-node](https://github.com/lencx/rsw-node) - ⚪️  `wasm-pack build` executed in remote deployment
+- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - wasm-pack plugin for Vite
+- [rsw-node](https://github.com/lencx/rsw-node) - `wasm-pack build` executed in remote deployment
 - [wasi-fs-access](https://github.com/GoogleChromeLabs/wasi-fs-access) - This is a demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.
 - [FFMPEG.WASM](https://ffmpegwasm.github.io) - ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 - [wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator written with Rust
 - [NoteCalc](https://bbodi.github.io/notecalc3) -  is a handy notepad with a smart builtin calculator.
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - Powerful 2D vector and raster editing: procedural and nondestructive. (Photoshop + Illustrator + Houdini = Graphite)
 - [Kalker/kalk](https://github.com/PaddiM8/kalker) - is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
-- [wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮   written for WebAssembly using AssemblyScript. 🚀  Demos built with Preact and Svelte. ⚛️
-- [Plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀   📈  🚀
+- [wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, written for WebAssembly using AssemblyScript. Demos built with Preact and Svelte.
+- [Plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely
 - [redshirt](https://github.com/tomaka/redshirt) - The redshirt operating system is an experiment to build some kind of operating-system-like environment where executables are all in Wasm and are loaded from an IPFS-like decentralized network.
-- [Photon](https://github.com/silvia-odwyer/photon) - ⚡  Rust/WebAssembly image processing library
+- [Photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library
 - [markdown-wasm](https://github.com/rsms/markdown-wasm) - Markdown parser and HTML generator implemented in WebAssembly, based on md4c.
-- [hash-wasm](https://github.com/Daninet/hash-wasm) - Hash-WASM is a ⚡  lightning fast⚡  hash function library for browsers and Node.js. It is using hand-tuned WebAssembly binaries to calculate the hash faster than other libraries.
+- [hash-wasm](https://github.com/Daninet/hash-wasm) - Hash-WASM is a lightning fast hash function library for browsers and Node.js. It is using hand-tuned WebAssembly binaries to calculate the hash faster than other libraries.
 - [serde-wasm-bindgen](https://github.com/cloudflare/serde-wasm-bindgen) - Native integration of [Serde](https://serde.rs) with [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
 - [sycamore](https://github.com/sycamore-rs/sycamore) - A reactive DOM library for Rust in WASM.
 - [gumnut](https://github.com/samthor/gumnut) - JS parser in Web Assembly / C.
@@ -61,6 +61,7 @@
 
 ## Article
 
+- [Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 - [A vision for future Web Technologies — WASM & PWAs](https://medium.com/@alshdavid/a-vision-for-future-web-technologies-wasm-pwas-9f8c6e1fe6b0)
 - [The Three Pillars of WebAssembly](https://thenewstack.io/the-three-pillars-of-webassembly/)
 - [Why WebAssembly Frameworks Are the Future of the Web](https://www.cloudsavvyit.com/13696/why-webassembly-frameworks-are-the-future-of-the-web/)

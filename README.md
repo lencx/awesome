@@ -19,6 +19,7 @@
 
 <h2>Contents</h2>
 
+- [Series](#series)
 - [Weekly](#weekly)
   - [Languages](#languages)
   - [Frontend](#frontend)
@@ -30,6 +31,13 @@
 - [Application](#application)
 - [GitHub](#github)
 - [Fonts](#fonts)
+
+## Series
+
+- [Node.js](./NodeJS.md)
+- [CSS](./CSS.md)
+- [React](./React.md)
+- [WebAssembly](./WebAssembly.md)
 
 ## Weekly
 
@@ -93,6 +101,8 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [⬢ rollup.js](https://rollupjs.org/) - Next-generation ES module bundler
   - [🐹 esbuild](https://esbuild.github.io/) - An extremely fast JavaScript bundler and minifier
   - [🦀 rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible
+- [postcss](https://postcss.org/) - A tool for transforming CSS with JavaScript
+  - [postcss-rs](https://github.com/justjavac/postcss-rs) - Fast and 100% API compatible postcss replacer, built in Rust
 
 ## CodeSnap
 
