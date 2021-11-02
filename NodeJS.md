@@ -16,6 +16,8 @@
 - [esno](https://github.com/antfu/esno) - TypeScript / ESNext node runtime powered by esbuild
 - [ni](https://github.com/antfu/ni) - Use the right package manager
 - [sade](https://github.com/lukeed/sade) - Sade is a small but powerful tool for building command-line interface (CLI) applications for Node.js that are fast, responsive, and helpful!
+- [cli-progress](https://github.com/npkgz/cli-progress) - easy to use progress-bar for command-line/terminal applications
+- [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 
 ### Parser
 
@@ -35,3 +37,4 @@
 - [Node.js: fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [fast-glob](https://github.com/mrmlnc/fast-glob) - It's a very fast and efficient glob library for Node.js
   - [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
+- [adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
