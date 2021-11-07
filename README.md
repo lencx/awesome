@@ -39,6 +39,7 @@
 - [CSS](./CSS.md)
 - [React](./React.md)
 - [WebAssembly](./WebAssembly.md)
+- [mpl template](./mpl.md) - Create a project in seconds!
 
 ## .dev
 
