@@ -97,6 +97,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 ## Terminal
 
+- [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.
 - github
   - [🐹 gh](https://github.com/cli/cli) - GitHub’s official command line tool
 - [💲 spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - A Zsh prompt for Astronauts
