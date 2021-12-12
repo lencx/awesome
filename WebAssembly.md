@@ -6,11 +6,15 @@
 - [[Mozilla Hacks] WebAssembly Articles](https://hacks.mozilla.org/category/webassembly/) - Articles posted in WebAssembly
 - [webassembly.org](https://webassembly.org) - WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 - [Bytecode Alliance](https://bytecodealliance.org/articles/) - The Bytecode Alliance is a nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).
-- [Rust 🦀 and WebAssembly 🕸](https://rustwasm.github.io/docs/book) - This small book describes how to use Rust and WebAssembly together.
-- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) - A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [WebAssembly Weekly](https://wasmweekly.news) - A weekly newsletter for keeping on top of what's new in the world of WebAssembly, with tutorials, examples, articles, and more.
 - [Awesome Wasm](https://github.com/mbasso/awesome-wasm) - Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [Wasm By Example](https://wasmbyexample.dev/home.en-us.html) - A hands-on introduction into WebAssembly ( Wasm ). Containing simple wasm examples and wasm tutorials on how to implement concepts and various tasks using WebAssembly.
+
+## Languages
+
+- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) - A curated list of languages that compile directly to or have their VMs in WebAssembly
+- [AssemblyScript](https://www.assemblyscript.org/) - A TypeScript-like language for WebAssembly.
+- [Rust 🦀 and WebAssembly 🕸](https://rustwasm.github.io/docs/book) - This small book describes how to use Rust and WebAssembly together.
 
 ## WASI & VM & VDOM
 
