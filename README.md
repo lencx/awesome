@@ -5,6 +5,17 @@
 
 > 😎 Awesome lists about all kinds of interesting topics
 
+## Series
+
+- [Node.js](./NodeJS.md)
+- [Rust](./Rust.md)
+- [CSS](./CSS.md)
+- [React](./React.md)
+- [WebAssembly](./WebAssembly.md)
+- [mpl template](./mpl.md) - Create a project in seconds!
+
+---
+
 | Symbol | Language | Symbol |   Language   | Symbol | Language |
 | :----: | :------: | :----: | :----------: | :----: | :------: |
 |   △    | C / C++  |   🐹   |      Go      |   ☕   |   Java   |
@@ -33,14 +44,6 @@
 - [Application](#application)
 - [GitHub](#github)
 - [Fonts](#fonts)
-
-## Series
-
-- [Node.js](./NodeJS.md)
-- [CSS](./CSS.md)
-- [React](./React.md)
-- [WebAssembly](./WebAssembly.md)
-- [mpl template](./mpl.md) - Create a project in seconds!
 
 ## .dev
 
@@ -164,7 +167,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 
 `💖 Other`
 
-- [github/dev](https://github.com/github/dev) - Press the . key on any repository or pull request, or swap .com with .dev in the URL, to go directly to a VS Code environment in your browser.
+- [github/dev](https://github.com/github/dev) - Press the `.` key on any repository or pull request, or swap .com with .dev in the URL, to go directly to a VS Code environment in your browser.
 - [GitHub520](https://github.com/521xueweihan/GitHub520) - Solve the problem of slow access to GitHub.com and unloading of pictures.
 
 ## Fonts
