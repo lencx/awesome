@@ -6,6 +6,10 @@
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [React Docs (BETA)](https://beta.reactjs.org/)
 
+## Blog
+
+- [React Training](https://reacttraining.com/blog) - React Corporate Workshops, Training, and Consulting.
+
 ## TypeScript
 
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -33,6 +37,7 @@
 - [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy!
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React.
+- [Floating UI](https://github.com/floating-ui/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more
 
 ## Hooks
 

@@ -1,6 +1,19 @@
-# Node.js
+# JavaScript
 
-## Terminal
+- [30 seconds of code](https://www.30secondsofcode.org/) - Browse 1043 short code snippets for all your development needs on 30 seconds of code.
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+- [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+  - [That JavaScript quiz you found on Reddit](https://jsisweird.com/) - JS is weird: A fun and tricky JavaScript quiz
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+
+## TypeScript
+
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+
+## Node.js
+
+### Terminal
 
 - [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
@@ -29,7 +42,7 @@
 - [Vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [Arg](https://github.com/vercel/arg) - Simple argument parsing
 
-## fs
+### fs
 
 - [rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
   - [del](https://github.com/sindresorhus/del) - Delete files and directories
