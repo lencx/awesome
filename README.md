@@ -7,16 +7,19 @@
 
 ## Series
 
+- [Rust](./Rust.md)
+- [WebAssembly](./WebAssembly.md)
+- [Web](./Web.md)
 - [JavaScript](./JavaScript.md)
 - [CSS](./CSS.md)
 - [React](./React.md)
-- [WebAssembly](./WebAssembly.md)
 - [Sheets](./Sheets.md)
   - [Front-end](./Sheets.md#front-end)
   - [Rust](./Sheets.md#rust)
 - [Tools](./Tools.md)
   - [CodeSnap](./Tools.md#codesnap)
   - [Draw](./Tools.md#draw)
+  - [RegExp](./Tools.md#regexp)
 - [mpl template](./mpl.md) - Create a project in seconds!
 
 ---
