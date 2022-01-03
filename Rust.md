@@ -9,6 +9,22 @@
   - [Rust for Node developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
   - [Rust for JavaScript peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 
+## Cli
+
+`cargo`
+
+- [cargo edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+- [rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
+
+`tools`
+
+- [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - your favorite rust -> wasm workflow tool!
+
+`lint`
+
+- [Clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
+
 ## Game Engine
 
 - [Bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
