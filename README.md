@@ -92,6 +92,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [🦀 fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`
 - git
   - [🦀 gix](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+  - [🦀 dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
   - [△ tig](https://github.com/jonas/tig) - Text-mode interface for git
 - grep
   - [🦀 ripgrep](https://github.com/BurntSushi/ripgrep) - `ripgrep` recursively searches directories for a regex pattern while respecting your gitignore
