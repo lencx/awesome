@@ -9,6 +9,17 @@
   - [Rust for Node developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
   - [Rust for JavaScript peeps](https://github.com/yoshuawuyts/rust-for-js-peeps) - Know JS, want to try Rust, but not sure where to start? This is for you!
 
+## Extension
+
+`🌐 Browser`
+
+- [Rust Search Extension](https://rust.extension.sh/) - Search docs, crates, builtin attributes, official books, and error codes, etc in your address bar instantly. Input keyword rs then press Space to get started. Just that easy!
+
+`💠 VSCode`
+
+- [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) - Provides support for rust-analyzer: novel LSP server for the Rust programming language.
+- [crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - This is crates, an extension for crates.io dependencies. Aims helping developers to manage dependencies while using Cargo.toml.
+
 ## Cli
 
 `cargo`
