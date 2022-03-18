@@ -93,6 +93,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - git
   - [🦀 gix](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
   - [🦀 dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
+  - [🦀 delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
   - [△ tig](https://github.com/jonas/tig) - Text-mode interface for git
 - grep
   - [🦀 ripgrep](https://github.com/BurntSushi/ripgrep) - `ripgrep` recursively searches directories for a regex pattern while respecting your gitignore
@@ -113,6 +114,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [🐹 gh](https://github.com/cli/cli) - GitHub’s official command line tool
 - [💲 spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - A Zsh prompt for Astronauts
   - [🦀 starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [🦀 Zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
 ## Compiler
 
