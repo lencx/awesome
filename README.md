@@ -103,6 +103,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [🦀 natls](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color
 - [💲 nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
   - [🦀 fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in Rust
+  - [Volta](https://github.com/volta-cli/volta) - JS Toolchains as Code
 - make
   - [🦀 just](https://github.com/casey/just) - `just` is a handy way to save and run project-specific commands.
 
