@@ -26,15 +26,14 @@
 
 | Symbol | Language | Symbol |   Language   | Symbol | Language |
 | :----: | :------: | :----: | :----------: | :----: | :------: |
-|   △    | C / C++  |   🐹   |      Go      |   ☕   |   Java   |
-|   🅺    |  Kotlin  |   ⬢    | Node.js / FE |   🐍   |  Python  |
-|   💎   |   Ruby   |   🦀   |     Rust     |   💲   |  Shell   |
-|   🐧   |  Swift   |   🕸    | WebAssembly  |        |          |
+|   🦀   |   Rust   |   🐧   |    Swift     |   🐹   |    Go    |
+|   △    | C / C++  |   ⬢    | Node.js / FE |   ☕   |   Java   |
+|   🅺    |  Kotlin  |   🕸    | WebAssembly  |   🐍   |  Python  |
 
-| Symbol |     Description      | Symbol | Description  | Symbol | Description |
-| :----: | :------------------: | :----: | :----------: | :----: | :---------: |
-|   🌐   |       Browser        |   💠   | IDE / VSCode |   💖   |    Other    |
-|   🧩   | Extensions / Plugins |
+| Symbol | Description | Symbol |     Description      |
+| :----: | :---------: | :----: | :------------------: |
+|   🌐   |   Browser   |   💠   |     IDE / VSCode     |
+|   💖   |    Other    |   🧩   | Extensions / Plugins |
 
 <h2>Contents</h2>
 
@@ -101,7 +100,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
   - [🦀 exa](https://github.com/ogham/exa) - A modern replacement for `ls`
   - [🦀 lsd](https://github.com/Peltoche/lsd) - The next gen ls command
   - [🦀 natls](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color
-- [💲 nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
   - [🦀 fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in Rust
   - [Volta](https://github.com/volta-cli/volta) - JS Toolchains as Code
 - make
@@ -113,7 +112,7 @@ An awesome list of quality weekly subscription newsletters from the software wor
 - [🦀 hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - github
   - [🐹 gh](https://github.com/cli/cli) - GitHub’s official command line tool
-- [💲 spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - A Zsh prompt for Astronauts
+- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - A Zsh prompt for Astronauts
   - [🦀 starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [🦀 Zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
