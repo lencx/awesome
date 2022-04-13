@@ -54,6 +54,7 @@
 
 ## State
 
+- [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux.
   - [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [recoil](https://github.com/facebookexperimental/recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
