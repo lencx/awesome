@@ -5,6 +5,7 @@
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [React Docs (BETA)](https://beta.reactjs.org/)
+- [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…
 
 ## Blog
 
@@ -38,6 +39,8 @@
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy!
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React.
 - [Floating UI](https://github.com/floating-ui/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more
+- [react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
+- [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,8 KB) color picker component for React and Preact apps
 
 ## Hooks
 
@@ -51,9 +54,12 @@
 - [useWorker](https://github.com/alewin/useWorker) - A React Hook for Blocking-Free Background Tasks
 - [useSound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation (Web + React Native)
+- [useTilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
+- [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ## State
 
+- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux.
   - [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
@@ -80,3 +86,7 @@
 - [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [React Move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
+
+## Internationalization
+
+- [react-i18next](https://github.com/i18next/react-i18next) -  Internationalization for react done right. Using the i18next i18n ecosystem.
