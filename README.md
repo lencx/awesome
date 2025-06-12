@@ -20,7 +20,7 @@
   - [CodeSnap](./Tools.md#codesnap)
   - [Draw](./Tools.md#draw)
   - [RegExp](./Tools.md#regexp)
-- [mpl template](./mpl.md) - Create a project in seconds!
+- [Liquid Glass (#WWDC25)](./LiquidGlass.md)
 
 ---
 
@@ -43,7 +43,7 @@
   - [Languages](#languages)
   - [Frontend](#frontend)
   - [Other](#other)
-- [System & Command](#system--command)
+- [System \& Command](#system--command)
 - [Terminal](#terminal)
 - [Compiler](#compiler)
 - [Application](#application)
