@@ -23,3 +23,4 @@
 - [Online Regex tester and visualizer - Python, PHP, Ruby, JavaScript, Java](https://extendsclass.com/regex-tester.html) - Online regular expression tester for Python, PHP, Ruby, JS, Java and MySQL. Regex visualizer. Syntax highlighting. Cheatsheet. Generate string corresponding to a regex.
 - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/) - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.
 - [Free Online Regular Expression Tester - FreeFormatter.com](https://www.freeformatter.com/regex-tester.html) - Free online regular expression tester with cheatsheet and most common solutions to common problems
+- [Pyrexp](https://pythonium.net/regex) - Online visual regex tester for Python.
